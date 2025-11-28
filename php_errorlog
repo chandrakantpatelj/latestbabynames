@@ -1,0 +1,4 @@
+[23-Jan-2021 09:45:39 UTC] PHP Notice:  Array to string conversion in /home/customer/www/virangk3.sg-host.com/public_html/application/views/index.php on line 433
+[18-Jun-2021 12:59:10 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/customer/www/virangk3.sg-host.com/public_html/system/application/controllers/Rashi.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/virangk3.sg-host.com/public_html/application/views/layout/sidebar.php on line 2
+[08-Jul-2021 04:43:07 UTC] PHP Fatal error:  Cannot redeclare meta() (previously declared in /home/customer/www/virangk3.sg-host.com/public_html/system/helpers/html_helper.php:349) in /home/customer/www/virangk3.sg-host.com/public_html/application/helpers/meta_helper.php on line 2
+[14-Sep-2021 09:39:11 UTC] PHP Fatal error:  Cannot redeclare Usermodel::num_rows() in /home/customer/www/staging.latestbabynames.com/public_html/application/models/Usermodel.php on line 101
